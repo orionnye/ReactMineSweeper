@@ -1,0 +1,38 @@
+#root > DIV > BUTTON {
+  background: #fff;
+  border: 1px solid #000;
+  margin-top: -3px;
+  height: 34px;
+  margin-right: -1px;
+  width: 34px;
+}
+
+.square {
+  background: #fff;
+  /* border: 1px solid #000; */
+  line-height: 50px;
+  margin-top: -1px;
+  height: 50px;
+  margin-right: -1px;
+  width: 50px;
+}
+
+.Oldsquare {
+  background: #fff;
+  border:1px solid #999;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+.afterRow {
+  clear: "";
+  display: block;
+}
